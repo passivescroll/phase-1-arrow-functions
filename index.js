@@ -1,9 +1,7 @@
 
 
-const divide = (parameter1, parameter2) => {
-    console.log(`divide ${parameter1}`);
-    console.log(`divide ${parameter2}`);
-    return parameter1 / parameter2;
-}
-sum(2000, 100);
+let divide = () => 2000 / 100
+   
+let square = (x) => x * x
 
+let add = (x, y) => x + y
